@@ -1,0 +1,93 @@
+﻿  1108-while.cpp
+  1109-homework.cpp
+  1126homework-1.cpp
+  1126homework-2.cpp
+  1126homework-3.cpp
+  357.cpp
+D:\elaine\program\357.cpp(8,8): error C2131: 表达式的计算结果不是常数
+D:\elaine\program\357.cpp(8,8): message : 因读取超过生命周期的变量而失败
+D:\elaine\program\357.cpp(8,8): message : 请参见“n”的用法
+D:\elaine\program\357.cpp(9,6): error C3863: 不可指定数组类型“int [n]”
+D:\elaine\program\357.cpp(9,13): error C3863: 不可指定数组类型“int [n]”
+D:\elaine\program\357.cpp(10,17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int [n]”
+D:\elaine\program\357.cpp(10,17): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int [n]" 的参数 1 冲突
+D:\elaine\program\357.cpp(11,14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int [n]”
+D:\elaine\program\357.cpp(11,14): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int [n]" 的参数 1 冲突
+D:\elaine\program\357.cpp(11,14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int [n]”
+D:\elaine\program\357.cpp(11,14): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int [n]" 的参数 2 冲突
+D:\elaine\program\357.cpp(13,7): error C3863: 不可指定数组类型“int [n]”
+D:\elaine\program\357.cpp(14,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int [n]”
+D:\elaine\program\357.cpp(14,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int [n]" 的参数 1 冲突
+  aaa.cpp
+  age-cal.cpp
+  bear-eat-apple.cpp
+  beautiful.cpp
+  beautiful2.cpp
+  cdistance.cpp
+  charuhahahai[].cpp
+  charumkeng[].cpp
+  charupaixuaiyou~~.cpp
+  chicken&rabbit.cpp
+  chicken.cpp
+  coins.cpp
+  compare-heightmeishi.cpp
+  congdadaoxiao.cpp
+  正在生成代码...
+D:\elaine\program\compare-heightmeishi.cpp(13): warning C4700: 使用了未初始化的局部变量“left”
+D:\elaine\program\compare-heightmeishi.cpp(13): warning C4700: 使用了未初始化的局部变量“right”
+  正在编译...
+  count.cpp
+  daoshu-sum.cpp
+  daynumber.cpp
+  divide7.cpp
+  erfenchazhaoheixiuxiu.cpp
+  f(x).cpp
+  f-c.cpp
+  find-person.cpp
+  fudian-divide.cpp
+  fudian.cpp
+  giant.cpp
+D:\elaine\program\giant.cpp(19,2): error C2059: 语法错误:“常数”
+  jinsupaixuniganma.cpp
+  lottery2.cpp
+  luckyn.cpp
+  luggage.cpp
+  luoji1.cpp
+  luoji2.cpp
+  maoge-maoge233.cpp
+  maopaomaixuniganma-youhuaban.cpp
+  maopaomaixuniganma.cpp
+  正在生成代码...
+D:\elaine\program\maopaomaixuniganma.cpp(20): warning C4700: 使用了未初始化的局部变量“i”
+D:\elaine\program\maopaomaixuniganma-youhuaban.cpp(25): warning C4700: 使用了未初始化的局部变量“i”
+D:\elaine\program\erfenchazhaoheixiuxiu.cpp(13): warning C4700: 使用了未初始化的局部变量“left”
+D:\elaine\program\erfenchazhaoheixiuxiu.cpp(13): warning C4700: 使用了未初始化的局部变量“right”
+  正在编译...
+  maxmin.cpp
+  oddeven.cpp
+  ouji-distance.cpp
+  quandi.cpp
+  runnian.cpp
+  sequence-sum.cpp
+  shanchuhahahai[].cpp
+  shanchuxkeng[].cpp
+  shuixianflower.cpp
+  shushisum.cpp
+  square.cpp
+  sswr.cpp
+  sum1-N.cpp
+  switch1019.cpp
+  telephone.cpp
+  test.cpp
+  triangle.cpp
+  triangle2.cpp
+  Untitled1.cpp
+D:\elaine\program\Untitled1.cpp(6): fatal error C1075: “{”: 未找到匹配令牌
+  watermelon.cpp
+  正在生成代码...
+  正在编译...
+  xuanzepaixuaihaihaiyo.cpp
+  xunhuanqiantao-practice.cpp
+  zhengquelv.cpp
+  学整数.cpp
+  正在生成代码...
