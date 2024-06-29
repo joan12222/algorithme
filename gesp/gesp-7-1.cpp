@@ -22,7 +22,7 @@ int main(){
 		edges[v].push_back(u);
 	}
 	for(int i=1;i<=n;i++){
-		sum0=0,sum1=0;
+		sum0=1,sum1=0;
 		if(vis[i]==0) dfs(i,0),ans+=min(sum0,sum1);
 	}
 	cout<<ans<<" "<<n-ans;
